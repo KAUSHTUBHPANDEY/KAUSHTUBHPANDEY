@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey!%20I'm%20 Kaushtubh Pandey &fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey!%20I'm%20KAUSHTUBHPANDEY&fontSize=40&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">Passionate Software Engineer & Developer</h1>
