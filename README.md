@@ -59,18 +59,18 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 NETWORK_ACTIVITY_METRICS
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KAUSHTUBHPANDEY&theme=react-dark" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KAUSHTUBHPANDEY&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAUSHTUBHPANDEY&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAUSHTUBHPANDEY&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KAUSHTUBHPANDEY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAUSHTUBHPANDEY&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAUSHTUBHPANDEY&layout=compact&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-profile-trophy.vercel.app/?username=KAUSHTUBHPANDEY&theme=tokyonight&column=3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAUSHTUBHPANDEY&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-profile-trophy.vercel.app/?username=KAUSHTUBHPANDEY&theme=onedark&column=3" width="48%" />
 </p>
